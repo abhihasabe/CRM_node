@@ -1,0 +1,25 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "description": "Company Management Systems Api's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhihasabe/CRM_node.git"
+  },
+  "author": "Abhijeet Hasabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhihasabe/CRM_node/issues"
+  },
+  "homepage": "https://github.com/abhihasabe/CRM_node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  }
+}
